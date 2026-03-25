@@ -66,10 +66,10 @@ to carry between sessions, and what decisions to make at each module
 boundary.
 
 The framework runs on two platforms operating in parallel:
-- **Claude Sonnet 4.6** — companion session for system description
+- **Claude Sonnet 4.6** (Pro Plan) — companion session for system description
   preparation, active commentary, boundary checks, and Run Record
   formatting
-- **ChatGPT GPT-5.4 Thinking Extended** — analytical execution across
+- **ChatGPT GPT-5.4 Thinking Extended** (Plus Plan) — analytical execution across
   three separate module sessions
 
 The instrument prompt files are not operated directly by the user.
