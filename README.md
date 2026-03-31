@@ -69,8 +69,8 @@ downstream of the required decision point, how far, and what
 minimum intervention would return it to the correct position.
 
 The framework runs on two AI platforms operating in parallel —
-ChatGPT GPT-5.4 as the analytical execution engine and Claude
-Sonnet 4.6 as the independent review layer. Full operational
+ChatGPT GPT-5.4 (Plus plan and above) as the analytical execution engine and Claude
+Sonnet 4.6 (Pro plan and above) as the independent review layer. Full operational
 documentation is in this repository.
 
 ---
