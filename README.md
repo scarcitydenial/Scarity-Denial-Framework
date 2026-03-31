@@ -31,15 +31,22 @@ South and Southeast Asia, and fragile-state infrastructure.
 
 ## What it has found
 
-**Rural water supply failure, West Africa** *(Evidence-informed model)*
-Scheme non-functionality is not caused by financing gaps or
-governance weakness. It is caused by a mislocated spare-parts
-supply chain authority architecture — the gate exists, but it
-fires at the wrong decision point. Five minimum reorganisation
-actions identified.
+**West Africa regional electricity grid — regional coordination and dispatch layer** *(Desktop model)*
+The regional coordination layer cannot enforce a binding
+callable-generation adequacy boundary before usable callable
+generation falls below the level required to sustain load. The
+denial architecture is mislocated: the most practically binding
+mechanism sits at the member-state operating point rather than
+at the required regional pre-breach gate. Open override routes
+between member-state discretion and the required regional gate
+remain structurally unresolved. Minimum intervention logic
+identifies one build, one relocate, and three strengthen actions
+required for realignment. Two sequential Desktop model runs
+completed — Run 1 on the full regional grid boundary, Run 2 on
+the tightened regional coordination and dispatch layer.
 
-*Briefing Note and full analytical run record available on
-request: Scarcity-Denial@protonmail.com*
+*Full analytical run records available on request:
+Scarcity-Denial@protonmail.com*
 
 ---
 
@@ -95,9 +102,9 @@ these four sentences.
 | `/SRIT` | Scarce Resource Identification Tool |
 | `/DAI` | Denial Architecture Interrogation |
 | `/DDA` | Drift Detection Analysis |
-| `/Runtime-Guide` | How to run the full three-module pipeline |
-| `/User-Manual` | How to interpret what each instrument produces |
-| `/run-records` | Completed analytical run records |
+| `/run-records` | How to run the full three-module pipeline |
+| `Runtime-Guide` | How to interpret what each instrument produces |
+| `User-Manual` | Completed analytical run records |
 
 ---
 
