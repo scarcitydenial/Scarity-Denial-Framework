@@ -94,20 +94,6 @@ these four sentences.
 
 ---
 
-## What is in this repository
-
-| Folder | Contents |
-|---|---|
-| `/Canon/` | The four-sentence governing framework |
-| `/Desktop-Model/SRIT/` | Scarce Resource Identification Tool |
-| `/Desktop-Model/DAI/` | Denial Architecture Interrogation |
-| `/Desktop-Model/DDA/` | Drift Detection Analysis |
-| `/Desktop-Model/run-records/` | Completed analytical run records |
-| `/Desktop-Model/Runtime-Guide` | How to run the full three-module pipeline |
-| `/Desktop-Model/User-Manual` | How to interpret what each instrument produces |
-
----
-
 ## Licence and use
 
 © Philip Harry Galvin 2026.
