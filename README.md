@@ -29,27 +29,6 @@ South and Southeast Asia, and fragile-state infrastructure.
 
 ---
 
-## What it has found
-
-**West Africa regional electricity grid — regional coordination and dispatch layer** *(Desktop model)*
-The regional coordination layer cannot enforce a binding
-callable-generation adequacy boundary before usable callable
-generation falls below the level required to sustain load. The
-denial architecture is mislocated: the most practically binding
-mechanism sits at the member-state operating point rather than
-at the required regional pre-breach gate. Open override routes
-between member-state discretion and the required regional gate
-remain structurally unresolved. Minimum intervention logic
-identifies one build, one relocate, and three strengthen actions
-required for realignment. Two sequential Desktop model runs
-completed — Run 1 on the full regional grid boundary, Run 2 on
-the tightened regional coordination and dispatch layer.
-
-*Full analytical run records available on request:
-Scarcity-Denial@protonmail.com*
-
----
-
 ## How it works
 
 Three sequential analytical components, each building on the
